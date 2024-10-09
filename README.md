@@ -60,7 +60,7 @@ phonemizer('test')
 phonemizer('hello this is a test')
 ```
 
-**[NEW] Use autoregressive model:**
+**Use autoregressive model:**
 
 > [!CAUTION]
 > OpenPhonemizer had a **bug** in the training script that caused significantly degraded performance. The autoregressive model has not yet been fixed. For now, please use the forward model.
